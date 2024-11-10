@@ -1,4 +1,4 @@
-# Doc Genie - docgenie.co.uk
+# [Doc Genie](https://docgenie.co.uk) - docgenie.co.uk
 
 ## The Ultimate Kindle Scribe Companion
 
