@@ -4,6 +4,9 @@
 
 **The only way to share notebooks from your Amazon Kindle Scribe to Google Drive, OneDrive & Dropbox. Visit [docgenie.co.uk](https://docgenie.co.uk).**
 
+![Xnip2024-11-10_11-48-37](https://github.com/user-attachments/assets/177c8c46-009c-4e13-b9f6-6c567b7ba45c)
+
+
 ---
 
 ### Why Choose Doc Genie?
@@ -15,11 +18,17 @@
 - **Free to Use**: Basic features are free for all Kindle Scribe users, with a pro subscription available for unlimited access.
 - **Chrome Extension**: Easily send web pages to your Kindle Scribe as PDFs while browsing. Check out [docgenie.co.uk](https://docgenie.co.uk) for more.
 
+![Xnip2024-11-10_12-30-18](https://github.com/user-attachments/assets/b0b7eeb6-1cbc-425c-873c-b75ce91c213c)
+
+
 ---
 
 ### Who Uses Doc Genie?
 
 Trusted by companies like ATM Network, AZ Capital, Polytechnique de Paris, and many more. Join thousands of members enhancing their Kindle Scribe experience with Doc Genie at [docgenie.co.uk](https://docgenie.co.uk).
+
+![Xnip2024-11-10_12-31-09](https://github.com/user-attachments/assets/17c2c94a-75f0-412e-9855-321c9bf4db53)
+
 
 ---
 
