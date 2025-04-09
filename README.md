@@ -1,4 +1,4 @@
-# [Doc Genie](https://docgenie.co.uk) - docgenie.co.uk
+# [Doc Genie](https://docgenie.co.uk) - Kindle Sribe notebooks to Google Drive and more
 
 ## The Ultimate Kindle Scribe Companion
 
